@@ -1,7 +1,7 @@
 About emd-signal-feedstock
 ==========================
 
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/emd-signal-feedstock/blob/main/LICENSE.txt)
+Feedstock license: [Apache-2.0](https://github.com/conda-forge/emd-signal-feedstock/blob/main/LICENSE.md)
 
 Home: https://github.com/laszukdawid/PyEMD
 
