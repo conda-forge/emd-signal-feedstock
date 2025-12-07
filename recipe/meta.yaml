@@ -1,5 +1,5 @@
 {% set name = "EMD-signal" %}
-{% set version = "1.7.1" %}
+{% set version = "1.8.0" %}
 
 package:
   name: emd-signal
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/emd_signal-{{ version }}.tar.gz
-  sha256: 18d0c3c125ebbca543cdc72a99366560731bb04378442a74cfbda5b227099d61
+  sha256: d37805432a75ce880bc2627d5cbbd65871d181c384e2f7a408b924cdaded0993
 
 build:
   noarch: python
